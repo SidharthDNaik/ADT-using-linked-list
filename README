@@ -2,14 +2,14 @@
 * Name: Sidharth Naik
 * ID: 1647945
 * Class: 12B/M
-* Date: February 19,2018
+* Date: February 21,2018
 * Description: This is the README file. Contains all the files that are being submitted
 * File Name: README
 */
 
 Noted features
 1. Created object Pair to encapsulate the two String fields key and value.
-2. Used two extra helper methods findPrevKey and myDictionary inside of Dictionary.c.
+2. Used an extra helper method findPrevKey inside of Dictionary.c.
 
 
 Files being submitted
